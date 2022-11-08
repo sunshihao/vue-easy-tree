@@ -1,8 +1,8 @@
 {
-    "name": "@wchbrad/vue-easy-tree",
-    "description": "A Vue.js project",
-    "version": "1.0.10",
-    "author": "wchbrad <chao.wu.brad@foxmail.com>",
+    "name": "@hi-knowledge/hi-tree",
+    "description": "A Vue.js project fork from vue-easy-tree",
+    "version": "1.0.0",
+    "author": "sssh <shihao.sun945@outlook.com>",
     "license": "MIT",
     "private": false,
     "main": "./dist/vue-easy-tree.js",
@@ -16,7 +16,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wchbrad/vue-easy-tree.git"
+        "url": "https://github.com/sunshihao/vue-easy-tree.git"
     },
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
